@@ -1,0 +1,78 @@
+/Volumes/NO NAME/Das_Local/Das_Local/obj/Debug/netstandard2.0/Das_Local.csprojAssemblyReference.cache
+/Volumes/NO NAME/Das_Local/Das_Local/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Volumes/NO NAME/Das_Local/Das_Local/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
+/Volumes/NO NAME/Das_Local/Das_Local/obj/Debug/netstandard2.0/Views/ContractorsPage.xaml.g.cs
+/Volumes/NO NAME/Das_Local/Das_Local/obj/Debug/netstandard2.0/Views/ContractsPage.xaml.g.cs
+/Volumes/NO NAME/Das_Local/Das_Local/obj/Debug/netstandard2.0/Views/LoginPage.xaml.g.cs
+/Volumes/NO NAME/Das_Local/Das_Local/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Volumes/NO NAME/Das_Local/Das_Local/obj/Debug/netstandard2.0/Views/MeetingMinutesPage.xaml.g.cs
+/Volumes/NO NAME/Das_Local/Das_Local/obj/Debug/netstandard2.0/Views/NewAccountPage.xaml.g.cs
+/Volumes/NO NAME/Das_Local/Das_Local/obj/Debug/netstandard2.0/Das_Local.AssemblyInfoInputs.cache
+/Volumes/NO NAME/Das_Local/Das_Local/obj/Debug/netstandard2.0/Das_Local.AssemblyInfo.cs
+/Volumes/NO NAME/Das_Local/Das_Local/obj/Debug/netstandard2.0/Das_Local.csproj.CoreCompileInputs.cache
+/Volumes/NO NAME/Das_Local/Das_Local/obj/Debug/netstandard2.0/Das_Local.dll
+/Volumes/NO NAME/Das_Local/Das_Local/obj/Debug/netstandard2.0/ref/Das_Local.dll
+/Volumes/NO NAME/Das_Local/Das_Local/obj/Debug/netstandard2.0/Das_Local.pdb
+/Users/marcus/Documents/Das_Local/Das_Local/bin/Debug/netstandard2.0/Das_Local.deps.json
+/Users/marcus/Documents/Das_Local/Das_Local/bin/Debug/netstandard2.0/Das_Local.dll
+/Users/marcus/Documents/Das_Local/Das_Local/bin/Debug/netstandard2.0/ref/Das_Local.dll
+/Users/marcus/Documents/Das_Local/Das_Local/bin/Debug/netstandard2.0/Das_Local.pdb
+/Users/marcus/Documents/Das_Local/Das_Local/obj/Debug/netstandard2.0/Das_Local.csprojAssemblyReference.cache
+/Users/marcus/Documents/Das_Local/Das_Local/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/marcus/Documents/Das_Local/Das_Local/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
+/Users/marcus/Documents/Das_Local/Das_Local/obj/Debug/netstandard2.0/Views/ContractorsPage.xaml.g.cs
+/Users/marcus/Documents/Das_Local/Das_Local/obj/Debug/netstandard2.0/Views/ContractsPage.xaml.g.cs
+/Users/marcus/Documents/Das_Local/Das_Local/obj/Debug/netstandard2.0/Views/LoginPage.xaml.g.cs
+/Users/marcus/Documents/Das_Local/Das_Local/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/marcus/Documents/Das_Local/Das_Local/obj/Debug/netstandard2.0/Views/MeetingMinutesPage.xaml.g.cs
+/Users/marcus/Documents/Das_Local/Das_Local/obj/Debug/netstandard2.0/Views/NewAccountPage.xaml.g.cs
+/Users/marcus/Documents/Das_Local/Das_Local/obj/Debug/netstandard2.0/Das_Local.AssemblyInfoInputs.cache
+/Users/marcus/Documents/Das_Local/Das_Local/obj/Debug/netstandard2.0/Das_Local.AssemblyInfo.cs
+/Users/marcus/Documents/Das_Local/Das_Local/obj/Debug/netstandard2.0/Das_Local.csproj.CoreCompileInputs.cache
+/Users/marcus/Documents/Das_Local/Das_Local/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/marcus/Documents/Das_Local/Das_Local/obj/Debug/netstandard2.0/Das_Local.dll
+/Users/marcus/Documents/Das_Local/Das_Local/obj/Debug/netstandard2.0/ref/Das_Local.dll
+/Users/marcus/Documents/Das_Local/Das_Local/obj/Debug/netstandard2.0/Das_Local.pdb
+/Users/marcus/Documents/Das_Local/Das_Local/obj/Debug/netstandard2.0/Views/PayDuesPages.xaml.g.cs
+/Volumes/Das_Local/Das_Local/bin/Debug/netstandard2.0/Das_Local.deps.json
+/Volumes/Das_Local/Das_Local/bin/Debug/netstandard2.0/Das_Local.dll
+/Volumes/Das_Local/Das_Local/bin/Debug/netstandard2.0/ref/Das_Local.dll
+/Volumes/Das_Local/Das_Local/bin/Debug/netstandard2.0/Das_Local.pdb
+/Volumes/Das_Local/Das_Local/obj/Debug/netstandard2.0/Das_Local.csprojAssemblyReference.cache
+/Volumes/Das_Local/Das_Local/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Volumes/Das_Local/Das_Local/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
+/Volumes/Das_Local/Das_Local/obj/Debug/netstandard2.0/Views/ContractorsPage.xaml.g.cs
+/Volumes/Das_Local/Das_Local/obj/Debug/netstandard2.0/Views/ContractsPage.xaml.g.cs
+/Volumes/Das_Local/Das_Local/obj/Debug/netstandard2.0/Views/LoginPage.xaml.g.cs
+/Volumes/Das_Local/Das_Local/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Volumes/Das_Local/Das_Local/obj/Debug/netstandard2.0/Views/MeetingMinutesPage.xaml.g.cs
+/Volumes/Das_Local/Das_Local/obj/Debug/netstandard2.0/Views/NewAccountPage.xaml.g.cs
+/Volumes/Das_Local/Das_Local/obj/Debug/netstandard2.0/Views/PayDuesPages.xaml.g.cs
+/Volumes/Das_Local/Das_Local/obj/Debug/netstandard2.0/Das_Local.AssemblyInfoInputs.cache
+/Volumes/Das_Local/Das_Local/obj/Debug/netstandard2.0/Das_Local.AssemblyInfo.cs
+/Volumes/Das_Local/Das_Local/obj/Debug/netstandard2.0/Das_Local.csproj.CoreCompileInputs.cache
+/Volumes/Das_Local/Das_Local/obj/Debug/netstandard2.0/XamlC.stamp
+/Volumes/Das_Local/Das_Local/obj/Debug/netstandard2.0/Das_Local.dll
+/Volumes/Das_Local/Das_Local/obj/Debug/netstandard2.0/ref/Das_Local.dll
+/Volumes/Das_Local/Das_Local/obj/Debug/netstandard2.0/Das_Local.pdb
+D:\Das_Local\Das_Local\bin\Debug\netstandard2.0\Das_Local.deps.json
+D:\Das_Local\Das_Local\bin\Debug\netstandard2.0\Das_Local.dll
+D:\Das_Local\Das_Local\bin\Debug\netstandard2.0\ref\Das_Local.dll
+D:\Das_Local\Das_Local\bin\Debug\netstandard2.0\Das_Local.pdb
+D:\Das_Local\Das_Local\obj\Debug\netstandard2.0\Das_Local.csprojAssemblyReference.cache
+D:\Das_Local\Das_Local\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Das_Local\Das_Local\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\Das_Local\Das_Local\obj\Debug\netstandard2.0\Views\ContractorsPage.xaml.g.cs
+D:\Das_Local\Das_Local\obj\Debug\netstandard2.0\Views\ContractsPage.xaml.g.cs
+D:\Das_Local\Das_Local\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\Das_Local\Das_Local\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Das_Local\Das_Local\obj\Debug\netstandard2.0\Views\MeetingMinutesPage.xaml.g.cs
+D:\Das_Local\Das_Local\obj\Debug\netstandard2.0\Views\NewAccountPage.xaml.g.cs
+D:\Das_Local\Das_Local\obj\Debug\netstandard2.0\Views\PayDuesPages.xaml.g.cs
+D:\Das_Local\Das_Local\obj\Debug\netstandard2.0\Das_Local.AssemblyInfoInputs.cache
+D:\Das_Local\Das_Local\obj\Debug\netstandard2.0\Das_Local.AssemblyInfo.cs
+D:\Das_Local\Das_Local\obj\Debug\netstandard2.0\Das_Local.csproj.CoreCompileInputs.cache
+D:\Das_Local\Das_Local\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Das_Local\Das_Local\obj\Debug\netstandard2.0\Das_Local.dll
+D:\Das_Local\Das_Local\obj\Debug\netstandard2.0\ref\Das_Local.dll
+D:\Das_Local\Das_Local\obj\Debug\netstandard2.0\Das_Local.pdb
