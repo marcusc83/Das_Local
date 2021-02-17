@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Das_Local.Views.NewAccountPage"
+             xmlns:vm="clr-namespace:Das_Local.ViewModels"
+             Title="{Binding Title}">
+
+    <ContentPage.BindingContext>
+        <vm:NewAccountViewModel/>
+    </ContentPage.BindingContext>
+    
+    <ContentPage.Content>
+        <StackLayout Grid.Row="0" Spacing="15">
+            <Entry x:Name="entMemID" Placeholder="Member Id"/>
+            <Entry x:Name="entFirstname" Placeholder="First Name"/>
+            <Entry x:Name="entLastName" Placeholder="Last Name"/>
+            <Entry x:Name="entAddress" Placeholder="Address" />
+            <Entry x:Name="entCity" Placeholder="City" />
+            <Entry x:Name="entState" Placeholder="State"/>
+            <Entry x:Name="entPhoneNumber" Placeholder="Phone Number"/>
+            <Entry x:Name="entEmail" Placeholder="email"/>
+            <Button x:Name="btnCreateAccount" Text="Create Account" HorizontalOptions="Fill"  CornerRadius="25" Margin="25,0" Command="{Binding CreateAccountCommand}"/>
+        </StackLayout>
+    </ContentPage.Content>
+    
+</ContentPage>

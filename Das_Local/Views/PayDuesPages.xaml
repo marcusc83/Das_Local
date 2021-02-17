@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Das_Local.Views.PayDuesPages"
+             xmlns:vm="clr-namespace:Das_Local.ViewModels"
+             Title="{Binding Title}">
+
+    <ContentPage.BindingContext>
+        <vm:PayDuesViewModel/>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="Accent">#96d1ff</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        <StackLayout>
+           <StackLayout Orientation ="Horizontal" HeightRequest="25" BackgroundColor="Green">
+           </StackLayout>
+            <StackLayout Orientation="Vertical" Spacing="15">
+                <Entry Placeholder="--Enter card number--"/>
+                <StackLayout Orientation="Horizontal" Spacing="50">
+                    <Picker Title="--Select a month--" ItemsSource="{Binding Months}" HorizontalTextAlignment="Start"/>
+                    <Picker Title="--Select a year--" ItemsSource="{Binding Years}" HorizontalOptions="End"/>
+                </StackLayout>
+                <Entry Placeholder="--Enter your security code--"/>
+                <Entry Placeholder="--Enter billing zip code--"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

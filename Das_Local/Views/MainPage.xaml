@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Das_Local.Views.MainPage"
+             xmlns:vm="clr-namespace:Das_Local.ViewModels"
+             Title="{Binding Title}">
+    <ContentPage.BindingContext>
+        <vm:MainViewModel/>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="Accent">#96d1ff</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout VerticalOptions="Start">
+                <CarouselView ItemsSource="{Binding Images}" HorizontalOptions="FillAndExpand" HeightRequest="375">
+                    <CarouselView.ItemTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding ImageUrl}" Aspect="AspectFill" />
+                        </DataTemplate>
+                    </CarouselView.ItemTemplate>
+                </CarouselView>
+            </StackLayout>
+            <StackLayout>
+                <Label Text="Whats New in the Local" />
+                <CarouselView HorizontalOptions="FillAndExpand" ItemsSource="{Binding Articles}" >
+                    <CarouselView.ItemTemplate>
+                        <DataTemplate>
+                            <Frame>
+                                <StackLayout>
+                                    <Label Text="{Binding ArticleTitle}"  FontAttributes="Bold" FontSize="Title"/>
+                                    <Label Text="{Binding ArticleTextBody}" FontSize="Body" />
+                                </StackLayout>
+                            </Frame>
+                        </DataTemplate>
+                    </CarouselView.ItemTemplate>
+                </CarouselView>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

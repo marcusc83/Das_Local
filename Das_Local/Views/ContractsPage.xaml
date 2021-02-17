@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Das_Local.Views.ContractsPage"
+             xmlns:vm="clr-namespace:Das_Local.ViewModels"
+             Title="{Binding Title}">
+
+    <ContentPage.BindingContext>
+        <vm:ContractViewModel/>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="Accent">#96d1ff</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        <StackLayout Padding="20" Spacing="15">
+            <Button Text="Contract 2016 - 2020" TextColor="White" CornerRadius="20"
+                    Command="{Binding btnContract}"/>
+
+
+            <Button Text="Memoranduim" TextColor="White" CornerRadius="20"
+                    Command="{Binding btnMemo}"/>
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

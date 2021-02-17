@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Das_Local.Views.ContractorsPage"
+             xmlns:vm="clr-namespace:Das_Local.ViewModels" xmlns:local="clr-namespace:Das_Local.Helpers"
+             Title="{Binding Title}">
+    <ContentPage.BindingContext>
+        <vm:ContractorsViewModel/>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="Accent">#96d1ff</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    
+    <ContentPage.Content>
+        <StackLayout Padding=" 0,5,0,0">
+                <CollectionView ItemsSource="{Binding Contractors}">
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate >
+                            <StackLayout Margin="5">
+                                <Label Text="{Binding Name}" FontSize ="Title" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+                                <Label Text="{Binding Address}" FontSize="Body" HorizontalTextAlignment="Center"/>
+                                <Label FontSize="Body" HorizontalTextAlignment="Center">
+                                    <Label.FormattedText>
+                                        <FormattedString>
+                                            <Span Text="{Binding City}"/>
+                                            <Span Text=", "/>
+                                            <Span Text="{Binding State}"/>
+                                            <Span Text=" "/>
+                                            <Span Text="{Binding ZipCode}"/>
+                                        </FormattedString>
+                                    </Label.FormattedText>
+                                </Label>
+                                <Label Text="{Binding PhoneNumber}" FontSize="Body" HorizontalTextAlignment="Center"/>
+                                <Label FontSize="Body" HorizontalTextAlignment="Center">
+                                    <Label.FormattedText>
+                                        <FormattedString>
+                                               <local:HyperLinkSpan Text="{Binding WebSite}"
+                                                                    Url="{Binding WebSite}"/>             
+                                        </FormattedString>
+                                    </Label.FormattedText>
+                                </Label>
+                                <BoxView BackgroundColor="{StaticResource Primary}" HeightRequest="4"/>
+                            </StackLayout>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
